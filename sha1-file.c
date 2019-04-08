@@ -30,7 +30,6 @@
 #include "mergesort.h"
 #include "quote.h"
 #include "packfile.h"
-#include "fetch-object.h"
 #include "object-store.h"
 #include "promisor-remote.h"
 
